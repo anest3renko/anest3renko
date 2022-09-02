@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex Nesterenko and I am SEO Assistant in [Intress media](url).
+- 👋 Hi, I’m Alex Nesterenko and I am SEO Assistant in [Intress media](https://intressmedia.com/).
 - 👀 I’m interested in search optimization.
 - 🌱 I’m currently learning how to become better SEO specialist.
 - 📫 You can write me on an@intressmedia.com
